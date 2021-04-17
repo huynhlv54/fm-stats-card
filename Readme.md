@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://huynhlv54.github.io/fm-stats-card/)
+- [Live Site URL](https://huynhlv54.github.io/fm-stats-card/)
 
 ## My process
 
